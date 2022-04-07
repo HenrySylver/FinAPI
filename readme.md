@@ -28,7 +28,7 @@ FinAPI => Financial API
 6. [x] Deve ser possível atualizar dados da conta do cliente
 7. [x] Deve ser possível obter dados da conta do cliente
 8. [x] Deve ser possível deletar uma conta
-9. [] Deve ser possível retornar o balanço
+9. [x] Deve ser possível retornar o balanço
 
 ### REGRAS DE NEGÓCIO
 
